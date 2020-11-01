@@ -1,4 +1,4 @@
-# Review-Scrapper
+# Review Scrapper
 This is a simple python library that scrapes reviews.
 
 Usage
